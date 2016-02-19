@@ -1,0 +1,17 @@
+create a file called HW1.lhs with the following header:
+
+
+CPSC 431/531 (whichever one you registered for)
+Your name followed by a blank line, as in this template
+
+> module HW1 where
+> import Euterpea
+
+hello word
+ 
+
+Prepare solutions to the following exercises from HSoM:
+
+From Chapter 1: Exercises 1.2, 1.3, and 1.4.
+From Chapter 2: Exercise 2.5.
+For exercise 1.4, your new functions should be called hNote, hList, and mel respectively.
